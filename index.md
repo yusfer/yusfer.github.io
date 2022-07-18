@@ -9,5 +9,5 @@ Beer is also the goal.
 
 My name is Fernando Yustas 
 
-<p><span style=" font-weight: bold">[Linkedin](https://www.linkedin.com/in/fyustas/)</span></p>
-<p><span style=" font-weight: bold">[Twitter](https://twitter.com/fyustas1)</span></p>
+
+<p> About me:  <span style=" font-weight: bold"><a href="https://www.linkedin.com/in/fyustas/">Linkedin</a></span> Follow me on  <span style=" font-weight: bold"><a href="https://twitter.com/fyustas1">Twitter</a></span>.</p>
