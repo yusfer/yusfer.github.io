@@ -1,6 +1,6 @@
 # yusfer.github.io
 
-Creativity is the goal.sss
+Creativity is the goal.
 
 Hardworking is the way.
 
