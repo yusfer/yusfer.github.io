@@ -1,14 +1,13 @@
 <head>
 
-<title>Yusfer page</title>
 </head>
 
 <body>
-Creativity is the goal.
+<p>Creativity is the goal.</p>
 
-Hardworking is the way.
+<p>Hardworking is the way.</p>
 
-Beer is also the goal.
+<p>Beer is also the goal.</p>
 
 
 <p>My name is Fernando Yustas and I am looking for some creativy.</p>
