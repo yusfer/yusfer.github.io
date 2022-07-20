@@ -3,7 +3,7 @@
 </head>
 
 <body>
-<p>Creativity is the goal.</p>
+<p>Creativity is the goal. :(</p>
 
 <p>Hardworking is the way.</p>
 
